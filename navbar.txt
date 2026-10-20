@@ -1,3 +1,7 @@
 hello
 this is sadat
 this testing
+
+.. ami aituko liksi .. sadat er aikane sommosa cilo .. fix korlam 
+
+ tik ace ni mamu 
